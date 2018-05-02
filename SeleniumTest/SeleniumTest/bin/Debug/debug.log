@@ -1,0 +1,18 @@
+[0213/102615.692:ERROR:process_reader_win.cc(123)] NtOpenThread: {Acceso denegado} Un proceso ha solicitado acceso a un objeto, pero no se le han concedido esos derechos de acceso.  (0xc0000022)
+[0213/102615.704:ERROR:exception_snapshot_win.cc(87)] thread ID 16968 not found in process
+[0213/102615.704:WARNING:crash_report_exception_handler.cc(62)] ProcessSnapshotWin::Initialize failed
+[0213/112820.917:ERROR:process_reader_win.cc(123)] NtOpenThread: {Acceso denegado} Un proceso ha solicitado acceso a un objeto, pero no se le han concedido esos derechos de acceso.  (0xc0000022)
+[0213/112820.929:ERROR:exception_snapshot_win.cc(87)] thread ID 17440 not found in process
+[0213/112820.929:WARNING:crash_report_exception_handler.cc(62)] ProcessSnapshotWin::Initialize failed
+[0213/122738.519:ERROR:process_reader_win.cc(123)] NtOpenThread: {Acceso denegado} Un proceso ha solicitado acceso a un objeto, pero no se le han concedido esos derechos de acceso.  (0xc0000022)
+[0213/122738.551:ERROR:exception_snapshot_win.cc(87)] thread ID 15652 not found in process
+[0213/122738.551:WARNING:crash_report_exception_handler.cc(62)] ProcessSnapshotWin::Initialize failed
+[0213/130505.506:ERROR:process_reader_win.cc(123)] NtOpenThread: {Acceso denegado} Un proceso ha solicitado acceso a un objeto, pero no se le han concedido esos derechos de acceso.  (0xc0000022)
+[0213/130505.529:ERROR:exception_snapshot_win.cc(87)] thread ID 18028 not found in process
+[0213/130505.529:WARNING:crash_report_exception_handler.cc(62)] ProcessSnapshotWin::Initialize failed
+[0221/104439.831:ERROR:process_reader_win.cc(123)] NtOpenThread: {Acceso denegado} Un proceso ha solicitado acceso a un objeto, pero no se le han concedido esos derechos de acceso.  (0xc0000022)
+[0221/104439.863:ERROR:exception_snapshot_win.cc(87)] thread ID 9852 not found in process
+[0221/104439.863:WARNING:crash_report_exception_handler.cc(62)] ProcessSnapshotWin::Initialize failed
+[0221/105111.551:ERROR:process_reader_win.cc(123)] NtOpenThread: {Acceso denegado} Un proceso ha solicitado acceso a un objeto, pero no se le han concedido esos derechos de acceso.  (0xc0000022)
+[0221/105111.552:ERROR:exception_snapshot_win.cc(87)] thread ID 15848 not found in process
+[0221/105111.552:WARNING:crash_report_exception_handler.cc(62)] ProcessSnapshotWin::Initialize failed

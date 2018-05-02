@@ -1,0 +1,14 @@
+C:\Users\qa-ntb\source\repos\SeleniumTest\SeleniumTest\bin\Debug\SeleniumTest.exe.config
+C:\Users\qa-ntb\source\repos\SeleniumTest\SeleniumTest\bin\Debug\SeleniumTest.exe
+C:\Users\qa-ntb\source\repos\SeleniumTest\SeleniumTest\bin\Debug\SeleniumTest.pdb
+C:\Users\qa-ntb\source\repos\SeleniumTest\SeleniumTest\bin\Debug\WebDriver.dll
+C:\Users\qa-ntb\source\repos\SeleniumTest\SeleniumTest\bin\Debug\WebDriver.xml
+C:\Users\qa-ntb\source\repos\SeleniumTest\SeleniumTest\obj\Debug\SeleniumTest.csprojResolveAssemblyReference.cache
+C:\Users\qa-ntb\source\repos\SeleniumTest\SeleniumTest\obj\Debug\SeleniumTest.csproj.CoreCompileInputs.cache
+C:\Users\qa-ntb\source\repos\SeleniumTest\SeleniumTest\obj\Debug\SeleniumTest.exe
+C:\Users\qa-ntb\source\repos\SeleniumTest\SeleniumTest\obj\Debug\SeleniumTest.pdb
+C:\Users\qa-ntb\source\repos\SeleniumTest\SeleniumTest\bin\Debug\LinqToExcel.dll
+C:\Users\qa-ntb\source\repos\SeleniumTest\SeleniumTest\bin\Debug\Remotion.Data.Linq.dll
+C:\Users\qa-ntb\source\repos\SeleniumTest\SeleniumTest\bin\Debug\Remotion.dll
+C:\Users\qa-ntb\source\repos\SeleniumTest\SeleniumTest\bin\Debug\Remotion.Interfaces.dll
+C:\Users\qa-ntb\source\repos\SeleniumTest\SeleniumTest\bin\Debug\LinqToExcel.xml
